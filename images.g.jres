@@ -1,0 +1,49 @@
+{
+    "image4": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAADwAAAAAAAAAAD/AAAAAAAAAPD/////AAAAAPAPAAAAAAAA8P///wAAAADwDwAAAAAAAPAPAAAAAAAA8P///wAAAADwDwAAAAAA//////8AAABfDwAAAAAAAP8PAAAAAAAA8A8AAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image2": {
+        "data": "hwQOAA4AAAAAAPAPAAAAAAAA/w8AAAAAAABfDwAAAAAAAP//////AAAAAPAPAAAAAAAA8P///wAAAADwDwAAAAAAAPAPAAAAAAAA8P///wAAAADwDwAAAAAA8P////8AAAD/AAAAAAAA8AAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAPD/AAAAAAAAAAAPAAAAAAAAAPD/AAAAAAAAAP////8AAAAA/w8AAAAAAADw/wAAAAAAAAD/AAAAAAAAAP8PAAAAAAAA8P8AAAAAAAAA////AAAAAAD/AAAAAAAAAPD/DwAAAAAA8PUPAAAAAADw/wAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAA8A8AAAAAAAD/DwAAAAAA8P///wAAAAD//wAAAAAAAP8ADwAAAADw/wDwAAAAAP//AAAPAADw//8AAAAA//8P/wAAAABfDwAPDwAAAP8PAA8PAAAA8A8ADw8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage4"
+    },
+    "image3": {
+        "data": "hwQOAA4AAAAAAAAAAA8AAAAAAAAA/wAAAAAAAAAADwAAAAAAAAAPAPD/AAAA8AAA//UAAAD/AAD//wAAAA8AAADw////DwAAAPD///8PAAAA8PAADw8AAADw8AAPDwAAAPDwAA8PAAAA8PAADw8AAADw8AAPDwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image7": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAADwAAAAAAAAAAD/AAAAAAAAAPD/////AAAAAPAPAAAAAAAA8P///wAAAADwDwAAAAAAAPAPAAAAAAAA8P///wAAAADwDwAAAADw//////8AAABfDwAAAAAAAP8PAAAAAAAA8A8AAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage5"
+    },
+    "image1": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDBlMDAwZjAwMDIwMDAwMDBlZTBlMDBlMGVlMDAwMGRjY2QwMGRjY2QwMDAwYmNkZGZmZGRjYjAwMDAzY2RiZGJiZGMzMDAwMGJmZDNkZDNkZmIwMDAwZGVkZGRkZGRlZGZiMGJkZWRmZGRmZGVkZGYwZmRmZmRkZGRmZmRkZjBmMmZkZGJiZGRmYmRmZmZiYjIyMjIyMjBmYmZiZGRiZGRkZGJkMGZmMGZmZGRkYmRkZGQwZjAwZjBmZGRmZmZkZjBmMDBmMDBkZDAwZmQwMGYwMGYwMGZmMDBmZjAwZjAwMDBlZTBlMDBlMGVlMDAwMGRjY2QwMGRjY2QwMDAwYmNkZGZmZGRjYjAwMDAzY2RiZGJiZGMzMDAwMGJmZDNkZDNkZmIwMDAwZGVkZGRkZGRlZGZiMGJkZWRmZGRmZGVkZGYwZmRmZmRkZGRmZmRkZjBmMmZkZGJiZGRmYmRmZmZiYjIyMjIyMjBmYmZiZGRiZGRkZGJkMGZmMGZmZGRkYmRkZGQwZjAwZjBmZGRmZmZkZjBmMDBmMDBmZjAwZmYwMGYwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
